@@ -1,0 +1,156 @@
+Candidate Name: Dr. Anya Sharma
+Contact: ranaa.p.das@gmail.com | +91 99911 22233 | LinkedIn: linkedin.com/in/anyasharma-datasci
+
+Summary:
+Highly experienced and certified 
+
+Data Scientist with over 8 years of proven expertise in 
+
+data mining, statistical analysis , and 
+
+predictive modeling  within diverse industries. Adept at leveraging 
+
+Python , 
+
+SQL , and 
+
+big-data technologies to develop and 
+
+implement analytical models in production , driving data-driven insights and enabling smarter business processes. Strong ability to 
+
+
+communicate findings to all stakeholders and lead 
+
+data strategy  initiatives.
+
+Work History:
+
+Lead Data Scientist | Analytics Innovations, Bangalore, India
+March 2021 – Present
+
+Served as 
+
+lead data strategist , identifying and integrating new 
+
+datasets (both 
+
+structured and unstructured ) to enhance product capabilities, increasing data utility by 20%.
+
+Devised and utilized advanced 
+
+machine learning algorithms and statistical models for 
+
+pattern recognition and 
+
+predictive modeling on 
+
+big-data  stores, improving model accuracy by 15%.
+
+Collaborated closely with 
+
+software developers and machine-learning engineers to 
+
+implement analytical models in production, ensuring seamless integration and scalability.
+
+Executed complex 
+
+analytical experiments , performing thorough 
+
+data and error analysis  to refine models and ensure data uniformity and accuracy.
+
+Presented complex 
+
+data insights and model performance to executive leadership and non-technical stakeholders using 
+
+PowerPoint and 
+
+Tableau, enabling smarter business processes.
+
+Senior Data Scientist | Tech Insights Corp., Hyderabad, India
+January 2018 – February 2021
+
+Identified relevant 
+
+data sources and datasets, then collected, 
+
+cleaned, and validated data  for various client business needs, significantly improving data quality.
+
+
+Analyzed data for trends and patterns using 
+
+Python (Pandas, NumPy) and 
+
+SQL , interpreting findings with clear business objectives.
+
+Developed and deployed forecasting models that improved sales predictions by 10% for key clients.
+
+Communicated model methodologies and results through comprehensive reports and dashboards.
+
+Data Analyst | Financial Intelligence, Mumbai, India
+August 2015 – December 2017
+
+Performed extensive 
+
+statistical analysis  on financial datasets to identify key market drivers.
+
+Utilized 
+
+Excel and 
+
+SAS for data manipulation and basic 
+
+predictive modeling.
+
+Created detailed reports and presentations summarizing analytical findings for internal teams.
+
+Education:
+
+Ph.D. in Applied Mathematics | Indian Institute of Science, Bangalore, India
+Graduated: 2015
+
+Certifications:
+
+Certified Analytics Professional (CAP)
+
+Skills:
+
+
+Data Science: Data Mining , 
+
+Statistical Analysis , 
+
+Predictive Modeling , 
+
+Pattern Recognition , 
+
+Machine Learning (Regression, Classification, Clustering, NLP), Feature Engineering, Model Deployment, Data Validation.
+
+
+Programming & Tools: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), 
+
+SQL , 
+
+Tableau , 
+
+Excel , 
+
+PowerPoint , 
+
+SAS, R, Spark, Hadoop, AWS (Sagemaker, S3).
+
+
+Analytical: Analytical Experiments , 
+
+Data & Error Analysis , 
+
+Trend/Pattern Analysis, Hypothesis Testing, A/B Testing.
+
+
+Soft Skills: Communication to Stakeholders , 
+
+Problem-Solving, Critical Thinking, Curiosity, Collaboration.
+
+
+Experience: 6+ years in Data Science , 
+
+2+ years Project Management.
