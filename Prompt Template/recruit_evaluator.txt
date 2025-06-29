@@ -7,13 +7,13 @@ RULES (follow strictly):
 2. Assign a single ATS Match Score between 0% and 100%. Be strict with missing requirements.
 3. In the Output, show only ONE of these two Evaluation formats:
 
-— If score is 80% or higher:
+— If score is 85% or higher:
 Overall ATS Match Score: [XX]%
 PASSED:
 Candidate is a good match based on core requirements.
 <<END>>
 
-— If score is below 80%:
+— If score is below 85%:
 Overall ATS Match Score: [XX]%
 Rejection Reasons:
 - [Reason 1: missing or weak requirement]
